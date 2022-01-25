@@ -1,0 +1,79 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name Geo4CastSDK
+import AdSupport
+import SystemConfiguration.CaptiveNetwork
+import Compression
+import CoreBluetooth
+import CoreLocation
+import CoreMotion
+import CoreTelephony
+import Foundation
+import MapKit
+import MessageUI
+import Security
+import Swift
+import SystemConfiguration
+import UIKit
+import UserNotifications
+import _Concurrency
+import zlib
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class Geo4Cast : ObjectiveC.NSObject {
+  public static let shared: Geo4CastSDK.Geo4Cast
+  public func configure(completionHandler: @escaping Geo4CastSDK.completed)
+  public var deviceUUID: Swift.String {
+    get
+  }
+  public var userId: Swift.String {
+    get
+  }
+  public var geoSurveySDKKey: Swift.String {
+    get
+  }
+  public var enableDebugLogging: Swift.Bool {
+    get
+    set
+  }
+  public var isEnabled: Swift.Bool {
+    get
+  }
+  public func addPushNotificationToken(token: Swift.String? = nil)
+  public func startCollection(with userId: Swift.String? = nil)
+  public func stopCollection()
+  public func setUserVariable(key: Swift.String, value: Any?)
+  public var surveyVendorClientID: Swift.String? {
+    get
+  }
+  public var surveyVendorClientSecret: Swift.String? {
+    get
+  }
+  public func updateSurveyStatus(status: Swift.Int, eventName: Swift.String, completionHandler: @escaping (Swift.Bool, Swift.Error?) -> ())
+  public func getUserSurveys(completionHandler: @escaping ([Foundation.NSDictionary]?, Swift.Error?) -> ())
+  public static func sendLog()
+  @objc deinit
+}
+extension CoreLocation.CLLocationCoordinate2D : Swift.Equatable {
+}
+extension CoreLocation.CLLocationCoordinate2D {
+  public static func == (lhs: CoreLocation.CLLocationCoordinate2D, rhs: CoreLocation.CLLocationCoordinate2D) -> Swift.Bool
+}
+public enum KeychainSwiftAccessOptions {
+  case accessibleWhenUnlocked
+  case accessibleWhenUnlockedThisDeviceOnly
+  case accessibleAfterFirstUnlock
+  case accessibleAfterFirstUnlockThisDeviceOnly
+  case accessibleWhenPasscodeSetThisDeviceOnly
+  public static func == (a: Geo4CastSDK.KeychainSwiftAccessOptions, b: Geo4CastSDK.KeychainSwiftAccessOptions) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public func Geo4CastLogPath() -> Swift.String
+public let periodicDataSenderDatasetNotification: Foundation.Notification.Name
+public let realtimeDatasetNotification: Foundation.Notification.Name
+public let overloadBeaconsPresentNotification: Foundation.Notification.Name
+public let fetchedRulesNotification: Foundation.Notification.Name
+public typealias completed = (_ success: Swift.Bool) -> Swift.Void
+extension Geo4CastSDK.KeychainSwiftAccessOptions : Swift.Equatable {}
+extension Geo4CastSDK.KeychainSwiftAccessOptions : Swift.Hashable {}

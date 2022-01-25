@@ -1,0 +1,6 @@
+framework module Geo4Cast {
+    umbrella header "Geo4CastSDK.h"    
+    export *
+    link "Geo4CastSDK"
+    module * { export * }
+}
