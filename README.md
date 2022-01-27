@@ -67,7 +67,7 @@ In the info.plist file.
 ## Initialisation
 
 Make sure your AppDelegate.swift is properly configured with the correct import and
-didFinishLaunchingWithOptions has the proper SDK initialization function, as below:
+didFinishLaunchingWithOptions has the proper SDK initialization function ELSE the application will crash, as below:
 
 ```
 import UIKit
@@ -78,7 +78,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-     Geo4Cast.shared.configure { (completed) in
+        Geo4Cast.configure(secretKey: "<Geo4CastSDKSecretKey>", language: "en") { success in
         Geo4Cast.shared.enableDebugLogging = true
      }
     return true

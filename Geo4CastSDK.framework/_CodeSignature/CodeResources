@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		blBc3mP6h9SMk0nvVxU9/BCzX90=
+		EmiZNSOuM5q/2mGZoOWXnlITs64=
 		</data>
 		<key>Headers/Geo4Cast.h</key>
 		<data>
@@ -14,43 +14,43 @@
 		</data>
 		<key>Headers/Geo4CastSDK-Swift.h</key>
 		<data>
-		u34cfts5WwiH0ezim5DQH+HjiAA=
+		t8z2x/QBoROwloyiRXRcb5KYq2s=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rwyOw8TLHJcL6D9lDKgpLLok0ug=
+		ZcaC8IyLFSOK8tZgXthLK/KY8yM=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		A/o6xRxvc3DQhQardJOCcaGsajA=
+		kpi6Uy8qkETu1rEglAlaJF6S0TM=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		A/o6xRxvc3DQhQardJOCcaGsajA=
+		kpi6Uy8qkETu1rEglAlaJF6S0TM=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qtCDeFw+E29g8E5XPA4f5D67qJQ=
+		gnBtw3NcP4ZLqarboF4ltVYDU8c=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BjGL+G5VcPUgLc6WaG/8O3mYFBE=
+		3I5jBtNFd+lZjQ3cFs6njWF26js=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		F9vlELWHOcY/DAkg829v6kwrIOw=
+		op9kLzYeWvom3Fpn0Gvus+wYfxA=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		qtCDeFw+E29g8E5XPA4f5D67qJQ=
+		gnBtw3NcP4ZLqarboF4ltVYDU8c=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		BjGL+G5VcPUgLc6WaG/8O3mYFBE=
+		3I5jBtNFd+lZjQ3cFs6njWF26js=
 		</data>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		F9vlELWHOcY/DAkg829v6kwrIOw=
+		op9kLzYeWvom3Fpn0Gvus+wYfxA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jURfulN5SctjP4KuTketTGlIjc9tu7Q7EWv2jWIA/hM=
+			ORr4b5scZzvEQpzbHAIb6AUFxJN1rMK0JPZb5Efz+CA=
 			</data>
 		</dict>
 		<key>Headers/Geo4Cast.h</key>
@@ -131,63 +131,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hDlssQsQghGZGKIU4ALMvob2wd1rdnoKwMCekDptS6I=
+			HJAK1Ft3dVum29n5cpKXH2QAuadzcXIek1RpturZ3CU=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			avpKJjhvxvkYwu2J2oiGfb/dG9yXyFVX0O2ffzqlPiE=
+			FhXxFbaF6fZxO7rF6ywfxmpKzuKN44ady7TXwWoLhPE=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			avpKJjhvxvkYwu2J2oiGfb/dG9yXyFVX0O2ffzqlPiE=
+			FhXxFbaF6fZxO7rF6ywfxmpKzuKN44ady7TXwWoLhPE=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J5OVsObJru1++F+5IpKvDOZ9Ofpj4Geeax3DZPuYPFM=
+			5RjrhUYgbgW1CaFuG/0/zkCf+tU3f+/KZyJOVcCpEVI=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TeVlov8Yks7OcWOJ9d9vqL+PC/S89YpMR/Ii5JgxmIE=
+			lMaqT7Zz9kGHafE8MM/6m/LuRqLJiWZeWgqtucsL+c8=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MRBiW6IKvOL+zJ9vcbr0kB6Eou7zrKepXNunYUXE1K4=
+			MIpyPeWaQoqwztQFD4bxRjI9loQ2NcamurpkcaxbQsM=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J5OVsObJru1++F+5IpKvDOZ9Ofpj4Geeax3DZPuYPFM=
+			5RjrhUYgbgW1CaFuG/0/zkCf+tU3f+/KZyJOVcCpEVI=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TeVlov8Yks7OcWOJ9d9vqL+PC/S89YpMR/Ii5JgxmIE=
+			lMaqT7Zz9kGHafE8MM/6m/LuRqLJiWZeWgqtucsL+c8=
 			</data>
 		</dict>
 		<key>Modules/Geo4CastSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MRBiW6IKvOL+zJ9vcbr0kB6Eou7zrKepXNunYUXE1K4=
+			MIpyPeWaQoqwztQFD4bxRjI9loQ2NcamurpkcaxbQsM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

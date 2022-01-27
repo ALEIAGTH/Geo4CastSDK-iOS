@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Geo4CastSDK'
   s.module_name      = 'Geo4CastSDK'
-  s.version          = '3.3.2'
+  s.version          = '3.3.3'
   s.summary          = 'Geo4Cast SDK with latest Swift 5. '
   s.description      = 'Geo4Cast SDK is a battery power friendly data gatherer. It is controlled by a configuration set to the client. 
   Visit us on https://www.geo4cast.ai for more infomration.'    
